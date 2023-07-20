@@ -4,29 +4,41 @@ body {
 
 header {
     border: 1px solid black;
-    color: white;
+    color: rgb(44, 25, 25);
 }
 
 #header-div {
     border: 1px solid red;
 }
 
-#header-h4 {
-    border: 2px double yellow;
-}
-
-#header-div-h3 {
-    border: 2px dashed yellowgreen;
-}
-
-#navbar-h2 {
-    border: 2px dotted blue;
-}
-
-#navbar-div-h1 {
-    border: 2px double black;
-}
-
 nav {
     border: 3px dotted white;
 }
+
+#main-body {
+    border: 3px solid white;
+}
+
+#body-section {
+    border: 2px solid red;
+
+    h1 {
+        border: 1px black solid;
+    }
+}
+
+// #header-h4 {
+//     background: white;
+// }
+
+// #header-div-h3 {
+//     background: white;
+// }
+
+// #navbar-h2 {
+//     background: white;
+// }
+
+// #navbar-div-h1 {
+//     background: white;
+// }

@@ -3,22 +3,18 @@ body {
 
 header {
   border: 1px solid black;
-  color: white; }
+  color: #2c1919; }
 
 #header-div {
   border: 1px solid red; }
 
-#header-h4 {
-  border: 2px double yellow; }
-
-#header-div-h3 {
-  border: 2px dashed yellowgreen; }
-
-#navbar-h2 {
-  border: 2px dotted blue; }
-
-#navbar-div-h1 {
-  border: 2px double black; }
-
 nav {
   border: 3px dotted white; }
+
+#main-body {
+  border: 3px solid white; }
+
+#body-section {
+  border: 2px solid red; }
+  #body-section h1 {
+    border: 1px black solid; }
